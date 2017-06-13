@@ -14,7 +14,7 @@ public class NewTest {
 	  driver.manage().window().maximize();
 	  String s = driver.getTitle();
 	  System.out.println(s);
-	  Assert.assertEquals(s,"abc");
+	  Assert.assertEquals(s,"Online Shopping Site for Mobiles, Fashion, Books, Electronics, Home Appliances and More");
 	  driver.quit();
   }
 }
