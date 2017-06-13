@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="16293" started-at="2017-06-09T12:29:08Z" finished-at="2017-06-09T12:29:24Z">
+  <suite name="Suite" duration-ms="19377" started-at="2017-06-13T10:06:40Z" finished-at="2017-06-13T10:07:00Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="16293" started-at="2017-06-09T12:29:08Z" finished-at="2017-06-09T12:29:24Z">
+    <test name="Test" duration-ms="19377" started-at="2017-06-13T10:06:40Z" finished-at="2017-06-13T10:07:00Z">
       <class name="jenkins.NewTest">
-        <test-method status="FAIL" signature="f()[pri:0, instance:jenkins.NewTest@47f37ef1]" name="f" duration-ms="16256" started-at="2017-06-09T17:59:08Z" finished-at="2017-06-09T17:59:24Z">
+        <test-method status="FAIL" signature="f()[pri:0, instance:jenkins.NewTest@47f37ef1]" name="f" duration-ms="19337" started-at="2017-06-13T15:36:40Z" finished-at="2017-06-13T15:37:00Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [abc] but found [Online Shopping Site for Mobiles, Fashion, Books, Electronics, Home Appliances and More]]]>
