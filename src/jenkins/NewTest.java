@@ -15,7 +15,7 @@ public class NewTest {
 	  driver.manage().window().maximize();
 	  String s = driver.getTitle();
 	  System.out.println(s);
-	  driver.findElement(By.name("jenkins"));
+	  driver.findElement(By.name("jenkins1"));
 	  Assert.assertEquals(s,"Online Shopping Site for Mobiles, Fashion, Books, Electronics, Home Appliances and More");
 	  driver.quit();
   }
